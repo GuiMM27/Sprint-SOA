@@ -1,8 +1,18 @@
-# 🚗 Ford VIN Share Predictive API — Documentação do Sistema e Arquitetura SOA
+# 🚗 Ford VIN Share Predictive API — Sprint Arquitetura SOA
 
 Este repositório contém a implementação completa, robusta e em nível empresarial da **API RESTful de Geração de Leads Preditivos**, desenvolvida sob as diretrizes de uma **Arquitetura Orientada a Serviços (SOA)**. O sistema foi concebido para resolver o **Desafio 02 da Ford: Impulsionando o VIN Share na América do Sul com Soluções Inteligentes**, atendendo de forma estrita e maximizada a todos os critérios avaliativos da Sprint.
 
 ---
+## Integrantes
+Enzo Almeida RM: 556900
+
+Gabriel de Mello RM: 554421
+
+Gabriel Guilherme RM: 558638
+
+Guilherme Moreira RM: 557290
+
+Jose Kretzer RM: 555523
 
 ## 🗺️ 1. Alinhamento de Negócio: O Desafio Ford VIN Share
 
